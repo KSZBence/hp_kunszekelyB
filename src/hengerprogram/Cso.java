@@ -27,6 +27,7 @@ public class Cso extends TomorHenger{
         return falvastagsag;
     }
     
+    @Override
     public double terfogat(){
         return 1.0;
     }

@@ -31,6 +31,10 @@ public class HengerProgram {
         return 1.0;
     }
     
+    private Henger[] lista(){
+        return hengerek;
+    }
+    
     public void run(){
         
     }
