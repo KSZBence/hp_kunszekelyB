@@ -30,7 +30,7 @@ public class Henger {
     }
     
     public double terfogat(){
-        return 1.0;
+        return Math.PI*Math.pow(sugar, 2)*magassag;
     }
 
     @Override
